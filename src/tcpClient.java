@@ -1,6 +1,8 @@
 import java.io.*;
 import java.net.*;
 
+// teste
+
 class TCPClient {
     public static void main(String argv[]) throws Exception {
         String sentence;
